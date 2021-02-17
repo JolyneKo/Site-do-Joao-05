@@ -5,4 +5,4 @@ Somente teste, usando pela primeira vez o React.js e criando uma página de Logi
 
 <img src="print.png" />
 
-**Site do Jão v.05**
+**Site do João versão 05**
